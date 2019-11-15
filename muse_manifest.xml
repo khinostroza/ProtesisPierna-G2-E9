@@ -1,0 +1,1359 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://khinostroza.github.io/ProtesisPierna-G2-E9" resolutions="1x" timestamp="1573845316345">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_b-p_g_-maestra.css" crc="3844759582" ref="tipos-de-prótesis:investigación-previa:suspensión:estado-del-arte:tipo-de-pie:soluciones:documento-final:problemática:protocolo:equipo:tipo-de-fabricación:prototipo:proyecto:materiales:recorrido-de-paciente:requerimientos:contacto:antes-1"/>
+    <file name="nomq_preview_master_b-p_g_-maestra.css" crc="390129951" ref="tipos-de-prótesis:investigación-previa:suspensión:estado-del-arte:tipo-de-pie:soluciones:documento-final:problemática:protocolo:equipo:tipo-de-fabricación:prototipo:proyecto:materiales:recorrido-de-paciente:requerimientos:contacto:antes-1"/>
+    <file name="master_a-p_g_-maestra.css" crc="3758180775" ref="tipos-de-prótesis:investigación-previa:suspensión:estado-del-arte:tipo-de-pie:index:soluciones:documento-final:problemática:protocolo:equipo:tipo-de-fabricación:prototipo:proyecto:materiales:recorrido-de-paciente:requerimientos:contacto:antes-1"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3824530138" ref="tipos-de-prótesis:investigación-previa:suspensión:estado-del-arte:tipo-de-pie:index:soluciones:documento-final:problemática:protocolo:equipo:tipo-de-fabricación:prototipo:proyecto:materiales:recorrido-de-paciente:requerimientos:contacto:antes-1"/>
+    <file name="tipos-de-pr_tesis.css" crc="4015390083" ref="tipos-de-prótesis"/>
+    <file name="nomq_tipos-de-pr_tesis.css" crc="3941065730" ref="tipos-de-prótesis"/>
+    <file name="investigaci_n-previa.css" crc="3831562406" ref="investigación-previa"/>
+    <file name="nomq_investigaci_n-previa.css" crc="374869294" ref="investigación-previa"/>
+    <file name="suspensi_n.css" crc="3859313993" ref="suspensión"/>
+    <file name="nomq_suspensi_n.css" crc="3817387556" ref="suspensión"/>
+    <file name="estado-del-arte.css" crc="3981882072" ref="estado-del-arte"/>
+    <file name="nomq_estado-del-arte.css" crc="3932951069" ref="estado-del-arte"/>
+    <file name="tipo-de-pie.css" crc="3876981223" ref="tipo-de-pie"/>
+    <file name="nomq_tipo-de-pie.css" crc="4133882268" ref="tipo-de-pie"/>
+    <file name="index.css" crc="3926290222" ref="index"/>
+    <file name="nomq_index.css" crc="6118949" ref="index"/>
+    <file name="soluciones.css" crc="163748387" ref="soluciones"/>
+    <file name="nomq_soluciones.css" crc="4032525211" ref="soluciones"/>
+    <file name="documento-final.css" crc="25602772" ref="documento-final"/>
+    <file name="nomq_documento-final.css" crc="274698020" ref="documento-final"/>
+    <file name="problem_tica.css" crc="330643386" ref="problemática"/>
+    <file name="nomq_problem_tica.css" crc="3913800551" ref="problemática"/>
+    <file name="protocolo.css" crc="3995488332" ref="protocolo"/>
+    <file name="nomq_protocolo.css" crc="390429636" ref="protocolo"/>
+    <file name="equipo.css" crc="4256777816" ref="equipo"/>
+    <file name="nomq_equipo.css" crc="4121999620" ref="equipo"/>
+    <file name="tipo-de-fabricaci_n.css" crc="4216507700" ref="tipo-de-fabricación"/>
+    <file name="nomq_tipo-de-fabricaci_n.css" crc="229307132" ref="tipo-de-fabricación"/>
+    <file name="prototipo.css" crc="485154656" ref="prototipo"/>
+    <file name="nomq_prototipo.css" crc="477554848" ref="prototipo"/>
+    <file name="proyecto.css" crc="518699250" ref="proyecto"/>
+    <file name="nomq_proyecto.css" crc="483204862" ref="proyecto"/>
+    <file name="materiales.css" crc="44685702" ref="materiales"/>
+    <file name="nomq_materiales.css" crc="165621716" ref="materiales"/>
+    <file name="recorrido-de-paciente.css" crc="107834456" ref="recorrido-de-paciente"/>
+    <file name="nomq_recorrido-de-paciente.css" crc="114079810" ref="recorrido-de-paciente"/>
+    <file name="requerimientos.css" crc="415046209" ref="requerimientos"/>
+    <file name="nomq_requerimientos.css" crc="253186815" ref="requerimientos"/>
+    <file name="contacto.css" crc="3779662812" ref="contacto"/>
+    <file name="nomq_contacto.css" crc="168785575" ref="contacto"/>
+    <file name="antes-1.css" crc="4135933218" ref="antes-1"/>
+    <file name="nomq_antes-1.css" crc="419825245" ref="antes-1"/>
+  </folder>
+  <folder name="assets">
+    <file name="2-ortenshape.mp4" crc="3912499057" seo="true" mt="1571852069000"/>
+    <file name="impresión-3d-para-prótesis.docx" crc="262054106" seo="true" mt="1571637393000"/>
+    <file name="grupo-1-práctica-esterilización-y-desinfección-(1).pdf" crc="3835578542" seo="true" mt="1568308165000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:equipo:proyecto:contacto:investigación-previa:estado-del-arte:soluciones:problemática:recorrido-de-paciente:tipos-de-prótesis:suspensión:tipo-de-pie:documento-final:tipo-de-fabricación:materiales:antes-1:requerimientos:prototipo:protocolo"/>
+    <file name="museutils.js" crc="3803043152" ref="index:equipo:proyecto:contacto:investigación-previa:estado-del-arte:soluciones:problemática:recorrido-de-paciente:tipos-de-prótesis:suspensión:tipo-de-pie:documento-final:tipo-de-fabricación:materiales:antes-1:requerimientos:prototipo:protocolo"/>
+    <file name="whatinput.js" crc="86476730" ref="index:equipo:proyecto:contacto:investigación-previa:estado-del-arte:soluciones:problemática:recorrido-de-paciente:tipos-de-prótesis:suspensión:tipo-de-pie:documento-final:tipo-de-fabricación:materiales:antes-1:requerimientos:prototipo:protocolo"/>
+    <file name="museconfig.js" crc="380897831" ref="index:equipo:proyecto:contacto:investigación-previa:estado-del-arte:soluciones:problemática:recorrido-de-paciente:tipos-de-prótesis:suspensión:tipo-de-pie:documento-final:tipo-de-fabricación:materiales:antes-1:requerimientos:prototipo:protocolo"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:equipo:proyecto:contacto:investigación-previa:estado-del-arte:soluciones:problemática:recorrido-de-paciente:tipos-de-prótesis:suspensión:tipo-de-pie:documento-final:tipo-de-fabricación:materiales:antes-1:requerimientos:prototipo:protocolo"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:equipo:proyecto:contacto:investigación-previa:estado-del-arte:soluciones:problemática:recorrido-de-paciente:tipos-de-prótesis:suspensión:tipo-de-pie:documento-final:tipo-de-fabricación:materiales:antes-1:requerimientos:prototipo:protocolo"/>
+    <file name="webpro.js" crc="242022427" ref="index:recorrido-de-paciente"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:recorrido-de-paciente"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:recorrido-de-paciente"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:recorrido-de-paciente"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:equipo:proyecto:contacto:investigación-previa:estado-del-arte:soluciones:problemática:recorrido-de-paciente:tipos-de-prótesis:suspensión:tipo-de-pie:documento-final:tipo-de-fabricación:materiales:antes-1:requerimientos:prototipo:protocolo"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:equipo:proyecto:contacto:investigación-previa:estado-del-arte:soluciones:problemática:recorrido-de-paciente:tipos-de-prótesis:suspensión:tipo-de-pie:documento-final:tipo-de-fabricación:materiales:antes-1:requerimientos:prototipo:protocolo"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:equipo:proyecto:contacto:investigación-previa:estado-del-arte:soluciones:problemática:recorrido-de-paciente:tipos-de-prótesis:suspensión:tipo-de-pie:documento-final:tipo-de-fabricación:materiales:antes-1:requerimientos:prototipo:protocolo"/>
+    <file name="require.js" crc="4157109226" ref="index:equipo:proyecto:contacto:investigación-previa:estado-del-arte:soluciones:problemática:recorrido-de-paciente:tipos-de-prótesis:suspensión:tipo-de-pie:documento-final:tipo-de-fabricación:materiales:antes-1:requerimientos:prototipo:protocolo"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="243675399" ref="index"/>
+    <file name="2.jpg" crc="265940542" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:equipo:proyecto:contacto:investigación-previa:estado-del-arte:soluciones:problemática:recorrido-de-paciente:tipos-de-prótesis:suspensión:tipo-de-pie:documento-final:tipo-de-fabricación:materiales:antes-1:requerimientos:prototipo:protocolo"/>
+    <file name="1.jpg" crc="4157159393" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.jpg" crc="349985781" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="logo 21 blanco.png" crc="58366759" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg-pegado-49149x66.svg" crc="136135813" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg pegado 49149x66_poster_.png" crc="184079075" ref="index"/>
+    <file name="svg-pegado-59503x57.svg" crc="446801016" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg pegado 59503x57_poster_.png" crc="342193153" ref="index"/>
+    <file name="svg-pegado-46235x46.svg" crc="4282183488" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg pegado 46235x46_poster_.png" crc="3877215839" ref="index"/>
+    <file name="svg-pegado-259871x259.svg" crc="253050801" seo="true" ref="index:investigación-previa">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+    </file>
+    <file name="svg pegado 259871x259_poster_.png" crc="4211893435" ref="index"/>
+    <file name="svg-pegado-206155x281.svg" crc="437909982" seo="true" ref="index:investigación-previa">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+    </file>
+    <file name="svg pegado 206155x281_poster_.png" crc="3762726697" ref="index"/>
+    <file name="imagen pegada 1611x810-crop-u21306.jpg" crc="3933909511" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 519x695-crop-u21333.jpg" crc="4149672515" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190906_104535270x271.jpg" crc="4245889590" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg-pegado-9177x46.svg" crc="3855635065" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg pegado 9177x46_poster_.png" crc="222734247" ref="index"/>
+    <file name="andrea-crop-u20553.png" crc="3768646642" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kat 1-crop-u20561.png" crc="4104892792" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kat2-crop-u20568.png" crc="3804907402" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tiven-crop-u20575.png" crc="507290799" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cogwheel.png" crc="3922790670" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_oficial.png" crc="3885858686" seo="true" ref="index:equipo:proyecto:contacto:investigación-previa:estado-del-arte:soluciones:problemática:recorrido-de-paciente:tipos-de-prótesis:suspensión:tipo-de-pie:documento-final:tipo-de-fabricación:materiales:antes-1:requerimientos:prototipo:protocolo">
+      <caption webpage="antes-1" alt=""/>
+      <caption webpage="antes-1" alt=""/>
+      <caption webpage="antes-1" alt=""/>
+      <caption webpage="antes-1" alt=""/>
+      <caption webpage="antes-1" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="protocolo" alt=""/>
+      <caption webpage="protocolo" alt=""/>
+      <caption webpage="protocolo" alt=""/>
+      <caption webpage="protocolo" alt=""/>
+      <caption webpage="protocolo" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="suspensión" alt=""/>
+      <caption webpage="suspensión" alt=""/>
+      <caption webpage="suspensión" alt=""/>
+      <caption webpage="suspensión" alt=""/>
+      <caption webpage="suspensión" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="tipo-de-pie" alt=""/>
+      <caption webpage="tipo-de-pie" alt=""/>
+      <caption webpage="tipo-de-pie" alt=""/>
+      <caption webpage="tipo-de-pie" alt=""/>
+      <caption webpage="tipo-de-pie" alt=""/>
+      <caption webpage="documento-final" alt=""/>
+      <caption webpage="documento-final" alt=""/>
+      <caption webpage="documento-final" alt=""/>
+      <caption webpage="documento-final" alt=""/>
+      <caption webpage="documento-final" alt=""/>
+      <caption webpage="tipos-de-prótesis" alt=""/>
+      <caption webpage="tipos-de-prótesis" alt=""/>
+      <caption webpage="tipos-de-prótesis" alt=""/>
+      <caption webpage="tipos-de-prótesis" alt=""/>
+      <caption webpage="tipos-de-prótesis" alt=""/>
+      <caption webpage="materiales" alt=""/>
+      <caption webpage="materiales" alt=""/>
+      <caption webpage="materiales" alt=""/>
+      <caption webpage="materiales" alt=""/>
+      <caption webpage="materiales" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="tipo-de-fabricación" alt=""/>
+      <caption webpage="tipo-de-fabricación" alt=""/>
+      <caption webpage="tipo-de-fabricación" alt=""/>
+      <caption webpage="tipo-de-fabricación" alt=""/>
+      <caption webpage="tipo-de-fabricación" alt=""/>
+    </file>
+    <file name="logo-blanco-pucp-crop-u14254.jpg" crc="3980192663" seo="true" ref="index:equipo:proyecto:contacto:investigación-previa:estado-del-arte:soluciones:problemática:recorrido-de-paciente:tipos-de-prótesis:suspensión:tipo-de-pie:documento-final:tipo-de-fabricación:materiales:antes-1:requerimientos:prototipo:protocolo">
+      <caption webpage="antes-1" alt=""/>
+      <caption webpage="antes-1" alt=""/>
+      <caption webpage="antes-1" alt=""/>
+      <caption webpage="antes-1" alt=""/>
+      <caption webpage="antes-1" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="protocolo" alt=""/>
+      <caption webpage="protocolo" alt=""/>
+      <caption webpage="protocolo" alt=""/>
+      <caption webpage="protocolo" alt=""/>
+      <caption webpage="protocolo" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="suspensión" alt=""/>
+      <caption webpage="suspensión" alt=""/>
+      <caption webpage="suspensión" alt=""/>
+      <caption webpage="suspensión" alt=""/>
+      <caption webpage="suspensión" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="tipo-de-pie" alt=""/>
+      <caption webpage="tipo-de-pie" alt=""/>
+      <caption webpage="tipo-de-pie" alt=""/>
+      <caption webpage="tipo-de-pie" alt=""/>
+      <caption webpage="tipo-de-pie" alt=""/>
+      <caption webpage="documento-final" alt=""/>
+      <caption webpage="documento-final" alt=""/>
+      <caption webpage="documento-final" alt=""/>
+      <caption webpage="documento-final" alt=""/>
+      <caption webpage="documento-final" alt=""/>
+      <caption webpage="tipos-de-prótesis" alt=""/>
+      <caption webpage="tipos-de-prótesis" alt=""/>
+      <caption webpage="tipos-de-prótesis" alt=""/>
+      <caption webpage="tipos-de-prótesis" alt=""/>
+      <caption webpage="tipos-de-prótesis" alt=""/>
+      <caption webpage="materiales" alt=""/>
+      <caption webpage="materiales" alt=""/>
+      <caption webpage="materiales" alt=""/>
+      <caption webpage="materiales" alt=""/>
+      <caption webpage="materiales" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="tipo-de-fabricación" alt=""/>
+      <caption webpage="tipo-de-fabricación" alt=""/>
+      <caption webpage="tipo-de-fabricación" alt=""/>
+      <caption webpage="tipo-de-fabricación" alt=""/>
+      <caption webpage="tipo-de-fabricación" alt=""/>
+    </file>
+    <file name="imagen pegada 1611x810-crop-u213062.jpg" crc="4167285713" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190906_104535352x265.jpg" crc="79860270" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 519x695-crop-u213332.jpg" crc="99414363" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="andrea-crop-u205532.png" crc="111110256" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kat 1-crop-u205612.png" crc="3969910869" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kat2-crop-u205682.png" crc="4449620" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tiven-crop-u205752.png" crc="4200308169" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190906_104535.jpg" crc="177664752" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 1611x810-crop-u213063.jpg" crc="263563373" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 519x695-crop-u213333.jpg" crc="57609524" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="andrea-crop-u205533.png" crc="4251083077" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kat 1-crop-u205613.png" crc="4207721889" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kat2-crop-u205683.png" crc="49367997" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tiven-crop-u205753.png" crc="3916953845" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190906_104535351x263.jpg" crc="34769126" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 1611x810-crop-u213064.jpg" crc="4186856631" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 519x695-crop-u213334.jpg" crc="470048986" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="andrea-crop-u205534.png" crc="375537563" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kat 1231x308.png" crc="186415950" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kat2-crop-u205684.png" crc="3869439354" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tiven-crop-u205754.png" crc="3817622976" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190906_104535286x215.jpg" crc="248715229" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 1611x810-crop-u213065.jpg" crc="376660473" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 519x695-crop-u213335.jpg" crc="110568999" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="andrea-crop-u205535.png" crc="292420413" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kat 1-crop-u205614.png" crc="4275886537" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kat2-crop-u205685.png" crc="406005421" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tiven-crop-u205755.png" crc="4156388256" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo 21.png" crc="3760497864" seo="true" ref="equipo:proyecto:contacto:investigación-previa:estado-del-arte:soluciones:problemática:recorrido-de-paciente:tipos-de-prótesis:suspensión:tipo-de-pie:documento-final:tipo-de-fabricación:materiales:antes-1:requerimientos:prototipo:protocolo">
+      <caption webpage="antes-1" alt=""/>
+      <caption webpage="antes-1" alt=""/>
+      <caption webpage="antes-1" alt=""/>
+      <caption webpage="antes-1" alt=""/>
+      <caption webpage="antes-1" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="protocolo" alt=""/>
+      <caption webpage="protocolo" alt=""/>
+      <caption webpage="protocolo" alt=""/>
+      <caption webpage="protocolo" alt=""/>
+      <caption webpage="protocolo" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="suspensión" alt=""/>
+      <caption webpage="suspensión" alt=""/>
+      <caption webpage="suspensión" alt=""/>
+      <caption webpage="suspensión" alt=""/>
+      <caption webpage="suspensión" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="tipo-de-pie" alt=""/>
+      <caption webpage="tipo-de-pie" alt=""/>
+      <caption webpage="tipo-de-pie" alt=""/>
+      <caption webpage="tipo-de-pie" alt=""/>
+      <caption webpage="tipo-de-pie" alt=""/>
+      <caption webpage="documento-final" alt=""/>
+      <caption webpage="documento-final" alt=""/>
+      <caption webpage="documento-final" alt=""/>
+      <caption webpage="documento-final" alt=""/>
+      <caption webpage="documento-final" alt=""/>
+      <caption webpage="tipos-de-prótesis" alt=""/>
+      <caption webpage="tipos-de-prótesis" alt=""/>
+      <caption webpage="tipos-de-prótesis" alt=""/>
+      <caption webpage="tipos-de-prótesis" alt=""/>
+      <caption webpage="tipos-de-prótesis" alt=""/>
+      <caption webpage="materiales" alt=""/>
+      <caption webpage="materiales" alt=""/>
+      <caption webpage="materiales" alt=""/>
+      <caption webpage="materiales" alt=""/>
+      <caption webpage="materiales" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="tipo-de-fabricación" alt=""/>
+      <caption webpage="tipo-de-fabricación" alt=""/>
+      <caption webpage="tipo-de-fabricación" alt=""/>
+      <caption webpage="tipo-de-fabricación" alt=""/>
+      <caption webpage="tipo-de-fabricación" alt=""/>
+    </file>
+    <file name="andrea-crop-u21584.png" crc="360723879" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="kat 1-crop-u21586.png" crc="245345056" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="kat2-crop-u21588.png" crc="514575407" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="tiven-crop-u21590.png" crc="39368908" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="svg-pegado-132027x304.svg" crc="81978057" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="svg pegado 132027x304_poster_.png" crc="83639828" ref="equipo"/>
+    <file name="svg-pegado-132024x292.svg" crc="4221361908" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="svg pegado 132024x292_poster_.png" crc="3881525604" ref="equipo"/>
+    <file name="svg-pegado-132024x296.svg" crc="418570222" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="svg pegado 132024x296_poster_.png" crc="4120191391" ref="equipo"/>
+    <file name="svg-pegado-132025x300.svg" crc="4084143795" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="svg pegado 132025x300_poster_.png" crc="496110017" ref="equipo"/>
+    <file name="svg-pegado-132024x297.svg" crc="4249744291" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="svg pegado 132024x297_poster_.png" crc="3803514262" ref="equipo"/>
+    <file name="andrea-crop-u215842.png" crc="4276053797" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="kat 1-crop-u215862.png" crc="4014848772" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="kat2-crop-u215882.png" crc="4223893476" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="tiven-crop-u215902.png" crc="432842547" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="andrea-crop-u215843.png" crc="401039663" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="tiven-crop-u215903.png" crc="78781731" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="kat 1-crop-u215863.png" crc="186587450" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="kat2-crop-u215883.png" crc="4050146363" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="tiven-crop-u215904.png" crc="3832016974" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="andrea-crop-u215844.png" crc="260787638" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="kat 1-crop-u215864.png" crc="4202753586" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="kat2-crop-u215884.png" crc="3844415070" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="tiven-crop-u215905.png" crc="507591844" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="andrea-crop-u215845.png" crc="58111115" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="kat 1-crop-u215865.png" crc="521317861" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="kat2-crop-u215885.png" crc="385002613" seo="true" ref="equipo">
+      <caption webpage="equipo" alt=""/>
+    </file>
+    <file name="imagen3.png" crc="4241263689" seo="true" ref="proyecto:investigación-previa">
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+    </file>
+    <file name="idea 2.png" crc="500966907" seo="true" ref="proyecto:problemática">
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+    </file>
+    <file name="requerimientos.png" crc="345114504" seo="true" ref="proyecto">
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+    </file>
+    <file name="prototipo139x158.png" crc="4112284394" seo="true" ref="proyecto">
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+    </file>
+    <file name="foco.png" crc="4189017626" seo="true" ref="proyecto">
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+    </file>
+    <file name="prtocolo.png" crc="4261517940" seo="true" ref="proyecto">
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+    </file>
+    <file name="imagen8.png" crc="4220115249" seo="true" ref="proyecto:estado-del-arte">
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="infrorme.png" crc="147054543" seo="true" ref="proyecto">
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+      <caption webpage="proyecto" alt=""/>
+    </file>
+    <file name="andrea-crop-u35533.png" crc="360723879" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="kat 1-crop-u35531.png" crc="245345056" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="kat2-crop-u35529.png" crc="514575407" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="tiven-crop-u35527.png" crc="39368908" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="andrea-crop-u355332.png" crc="4276053797" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="kat 1-crop-u355312.png" crc="4014848772" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="kat2-crop-u355292.png" crc="4223893476" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="tiven-crop-u355272.png" crc="432842547" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="andrea-crop-u355333.png" crc="401039663" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="tiven-crop-u355273.png" crc="78781731" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="kat 1-crop-u355313.png" crc="186587450" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="kat2-crop-u355293.png" crc="4050146363" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="andrea-crop-u355334.png" crc="260787638" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="tiven-crop-u355274.png" crc="4181764674" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="kat 1-crop-u355314.png" crc="4202753586" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="kat2-crop-u355294.png" crc="3844415070" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="tiven-crop-u355275.png" crc="507591844" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="andrea-crop-u355335.png" crc="58111115" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="kat 1-crop-u355315.png" crc="521317861" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="kat2-crop-u355295.png" crc="385002613" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="12.jpg" crc="4173375370" seo="true" ref="investigación-previa">
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+    </file>
+    <file name="svg-pegado-307x476.svg" crc="4125147472" seo="true" ref="investigación-previa">
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+    </file>
+    <file name="svg pegado 307x476_poster_.png" crc="461588736" ref="investigación-previa"/>
+    <file name="imagen pegada 619x504.jpg" crc="168162818" seo="true" ref="investigación-previa">
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+    </file>
+    <file name="imagen pegada 768x577.jpg" crc="3781633086" seo="true" ref="investigación-previa">
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+    </file>
+    <file name="imagen pegada 904x173.jpg" crc="3867934357" seo="true" ref="investigación-previa">
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+    </file>
+    <file name="imagen pegada 906x189.jpg" crc="4026774520" seo="true" ref="investigación-previa">
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+    </file>
+    <file name="imagen pegada 900x164.jpg" crc="4155457234" seo="true" ref="investigación-previa">
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+    </file>
+    <file name="imagen pegada 887x468.jpg" crc="4046165529" seo="true" ref="investigación-previa">
+      <caption webpage="investigación-previa" alt=""/>
+      <caption webpage="investigación-previa" alt=""/>
+    </file>
+    <file name="imagen pegada 887x468596x315.jpg" crc="147380871" seo="true" ref="investigación-previa">
+      <caption webpage="investigación-previa" alt=""/>
+    </file>
+    <file name="imagen pegada 619x504350x285.jpg" crc="4213918846" seo="true" ref="investigación-previa">
+      <caption webpage="investigación-previa" alt=""/>
+    </file>
+    <file name="imagen pegada 768x577350x263.jpg" crc="4153882142" seo="true" ref="investigación-previa">
+      <caption webpage="investigación-previa" alt=""/>
+    </file>
+    <file name="imagen pegada 887x468350x185.jpg" crc="150948481" seo="true" ref="investigación-previa">
+      <caption webpage="investigación-previa" alt=""/>
+    </file>
+    <file name="imagen pegada 619x504299x244.jpg" crc="4087265420" seo="true" ref="investigación-previa">
+      <caption webpage="investigación-previa" alt=""/>
+    </file>
+    <file name="imagen pegada 768x577299x225.jpg" crc="250732519" seo="true" ref="investigación-previa">
+      <caption webpage="investigación-previa" alt=""/>
+    </file>
+    <file name="imagen pegada 887x468299x158.jpg" crc="91696954" seo="true" ref="investigación-previa">
+      <caption webpage="investigación-previa" alt=""/>
+    </file>
+    <file name="ay1.jpg" crc="3927080125" seo="true" ref="estado-del-arte:prototipo">
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+    </file>
+    <file name="imagen pegada 313x591.jpg" crc="245030816" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="imagen pegada 328x440.jpg" crc="3846663991" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="imagen pegada 471x642.jpg" crc="305796319" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="svg-pegado-1127x460.svg" crc="3823007309" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="svg pegado 1127x460_poster_.png" crc="4063512727" ref="estado-del-arte"/>
+    <file name="svg-pegado-438865x477.svg" crc="4236190348" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="svg pegado 438865x477_poster_.png" crc="4117840813" ref="estado-del-arte"/>
+    <file name="imagen pegada 388x348.jpg" crc="156475368" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="imagen pegada 445x347.jpg" crc="171270092" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="svg-pegado-447533x187.svg" crc="523002750" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="svg pegado 447533x187_poster_.png" crc="214196719" ref="estado-del-arte"/>
+    <file name="imagen pegada 313x591216x407.jpg" crc="4180403661" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="imagen pegada 471x642301x410.jpg" crc="324724081" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="imagen pegada 388x348236x211.jpg" crc="3988371507" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="imagen pegada 445x347252x196.jpg" crc="37875096" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="imagen pegada 388x348180x162.jpg" crc="109670575" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="imagen pegada 445x347156x122.jpg" crc="204479483" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="imagen pegada 471x642291x397.jpg" crc="3763138210" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="ay2.jpg" crc="3825636118" seo="true" ref="soluciones:requerimientos">
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+    </file>
+    <file name="foco124x152.png" crc="303193403" seo="true" ref="soluciones">
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+    </file>
+    <file name="svg-pegado-45027x173.svg" crc="4255065362" seo="true" ref="soluciones">
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="soluciones" alt=""/>
+    </file>
+    <file name="svg pegado 45027x173_poster_.png" crc="4068868290" ref="soluciones"/>
+    <file name="whatsapp image 2019-11-13 at 32657 pm (1).jpg" crc="40502501" seo="true" ref="soluciones:prototipo">
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-11-13 at 32658 pm (1).jpg" crc="4264994510" seo="true" ref="soluciones:prototipo">
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-11-13 at 32658 pm.jpg" crc="89901973" seo="true" ref="soluciones:prototipo">
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-11-13 at 32657 pm.jpg" crc="274397396" seo="true" ref="soluciones:prototipo">
+      <caption webpage="soluciones" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-11-13 at 32657 pm (1)185x249.jpg" crc="4085170496" seo="true" ref="soluciones">
+      <caption webpage="soluciones" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-11-13 at 32658 pm (1)170x246.jpg" crc="4145872528" seo="true" ref="soluciones">
+      <caption webpage="soluciones" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-11-13 at 32658 pm199x246.jpg" crc="3858200937" seo="true" ref="soluciones">
+      <caption webpage="soluciones" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-11-13 at 32657 pm224x224.jpg" crc="244070192" seo="true" ref="soluciones">
+      <caption webpage="soluciones" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-11-13 at 32657 pm (1)165x221.jpg" crc="4200635923" seo="true" ref="soluciones">
+      <caption webpage="soluciones" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-11-13 at 32658 pm (1)151x219.jpg" crc="3927564677" seo="true" ref="soluciones">
+      <caption webpage="soluciones" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-11-13 at 32658 pm177x219.jpg" crc="3825930131" seo="true" ref="soluciones">
+      <caption webpage="soluciones" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-11-13 at 32657 pm199x199.jpg" crc="4141254122" seo="true" ref="soluciones">
+      <caption webpage="soluciones" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-11-13 at 32657 pm (1)122x164.jpg" crc="101193270" seo="true" ref="soluciones">
+      <caption webpage="soluciones" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-11-13 at 32658 pm (1)112x163.jpg" crc="256987929" seo="true" ref="soluciones">
+      <caption webpage="soluciones" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-11-13 at 32658 pm132x163.jpg" crc="292146303" seo="true" ref="soluciones">
+      <caption webpage="soluciones" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-11-13 at 32657 pm148x148.jpg" crc="235969165" seo="true" ref="soluciones">
+      <caption webpage="soluciones" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-11-13 at 32657 pm (1)89x119.jpg" crc="4015192990" seo="true" ref="soluciones">
+      <caption webpage="soluciones" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-11-13 at 32658 pm (1)81x118.jpg" crc="428592276" seo="true" ref="soluciones">
+      <caption webpage="soluciones" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-11-13 at 32658 pm95x118.jpg" crc="459275441" seo="true" ref="soluciones">
+      <caption webpage="soluciones" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-11-13 at 32657 pm107x107.jpg" crc="488004384" seo="true" ref="soluciones">
+      <caption webpage="soluciones" alt=""/>
+    </file>
+    <file name="bonito3.jpg" crc="184858819" seo="true" ref="problemática">
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+    </file>
+    <file name="svg-pegado-2311354x822.svg" crc="325980529" seo="true" ref="problemática">
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+    </file>
+    <file name="svg pegado 2311354x822_poster_.png" crc="4269744154" ref="problemática"/>
+    <file name="svg-pegado-54376x135.svg" crc="281349094" seo="true" ref="problemática">
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+    </file>
+    <file name="svg pegado 54376x135_poster_.png" crc="4174349738" ref="problemática"/>
+    <file name="svg-pegado-660334x202.svg" crc="22898361" seo="true" ref="problemática">
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+    </file>
+    <file name="svg pegado 660334x202_poster_.png" crc="3826545573" ref="problemática"/>
+    <file name="svg-pegado-621104x70.svg" crc="371754166" seo="true" ref="problemática">
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+    </file>
+    <file name="svg pegado 621104x70_poster_.png" crc="3860893696" ref="problemática"/>
+    <file name="svg-pegado-6677x68.svg" crc="3575387" seo="true" ref="problemática">
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+      <caption webpage="problemática" alt=""/>
+    </file>
+    <file name="svg pegado 6677x68_poster_.png" crc="4419390" ref="problemática"/>
+    <file name="bonito3-crop-u26118.jpg" crc="148817022" seo="true" ref="problemática">
+      <caption webpage="problemática" alt=""/>
+    </file>
+    <file name="svg-pegado-791836x897.svg" crc="471913487" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 791836x897_poster_.png" crc="259285463" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-158433x444.svg" crc="4073646385" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 158433x444_poster_.png" crc="3816469277" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-158433x457.svg" crc="3867796512" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 158433x457_poster_.png" crc="67412305" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-188387x136.svg" crc="4089598868" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 188387x136_poster_.png" crc="93752393" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-275012x109.svg" crc="368026567" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 275012x109_poster_.png" crc="263152048" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-195432x133.svg" crc="3900966450" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 195432x133_poster_.png" crc="4117237829" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-437926x162.svg" crc="4275240030" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 437926x162_poster_.png" crc="3860069439" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-188387x1362.svg" crc="3917701353" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 188387x136_poster_2.png" crc="96661004" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-271674x99.svg" crc="4213834044" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 271674x99_poster_.png" crc="3999281430" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-188387x1363.svg" crc="149577691" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 188387x136_poster_3.png" crc="87217871" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-9007x714.svg" crc="4095982222" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 9007x714_poster_.png" crc="3778846399" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-248753x102.svg" crc="186972113" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 248753x102_poster_.png" crc="4153384780" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-195432x1332.svg" crc="124402581" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 195432x133_poster_2.png" crc="3916281436" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-386271x193.svg" crc="4112083580" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 386271x193_poster_.png" crc="526048528" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-194432x133.svg" crc="3903491216" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 194432x133_poster_.png" crc="144846390" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-545057x366.svg" crc="227252109" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 545057x366_poster_.png" crc="3873872150" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-188387x1364.svg" crc="454441580" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 188387x136_poster_4.png" crc="82042467" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-226982x167.svg" crc="3780441749" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 226982x167_poster_.png" crc="4241249830" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-194432x1332.svg" crc="3766158384" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 194432x133_poster_2.png" crc="156255374" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-249888x166.svg" crc="4122907077" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 249888x166_poster_.png" crc="208964757" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-188387x1365.svg" crc="63006366" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 188387x136_poster_5.png" crc="4126923887" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-31525x115.svg" crc="3897196367" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 31525x115_poster_.png" crc="365434076" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-174484x174.svg" crc="4046009951" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 174484x174_poster_.png" crc="175009602" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-174484x1742.svg" crc="4061217327" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 174484x174_poster_2.png" crc="292384723" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-174264x174.svg" crc="122376759" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 174264x174_poster_.png" crc="3992813398" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-174484x1743.svg" crc="490042979" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 174484x174_poster_3.png" crc="4264094240" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-169853x169.svg" crc="4236951436" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 169853x169_poster_.png" crc="226553891" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-169853x1692.svg" crc="493881830" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 169853x169_poster_2.png" crc="44346050" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-217.svg" crc="29288916" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 217_poster_.png" crc="4162280834" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-1303231x1203.svg" crc="164643029" seo="true" ref="recorrido-de-paciente">
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+      <caption webpage="recorrido-de-paciente" alt=""/>
+    </file>
+    <file name="svg pegado 1303231x1203_poster_.png" crc="3867374813" ref="recorrido-de-paciente"/>
+    <file name="svg-pegado-635x337.svg" crc="4255079485" seo="true" ref="tipos-de-prótesis">
+      <caption webpage="tipos-de-prótesis" alt=""/>
+      <caption webpage="tipos-de-prótesis" alt=""/>
+      <caption webpage="tipos-de-prótesis" alt=""/>
+      <caption webpage="tipos-de-prótesis" alt=""/>
+      <caption webpage="tipos-de-prótesis" alt=""/>
+    </file>
+    <file name="svg pegado 635x337_poster_.png" crc="3766638360" ref="tipos-de-prótesis"/>
+    <file name="svg-pegado-60994x387.svg" crc="92380725" seo="true" ref="tipos-de-prótesis">
+      <caption webpage="tipos-de-prótesis" alt=""/>
+      <caption webpage="tipos-de-prótesis" alt=""/>
+      <caption webpage="tipos-de-prótesis" alt=""/>
+      <caption webpage="tipos-de-prótesis" alt=""/>
+      <caption webpage="tipos-de-prótesis" alt=""/>
+    </file>
+    <file name="svg pegado 60994x387_poster_.png" crc="3837439216" ref="tipos-de-prótesis"/>
+    <file name="svg-pegado-1305x728.svg" crc="3867246589" seo="true" ref="suspensión">
+      <caption webpage="suspensión" alt=""/>
+      <caption webpage="suspensión" alt=""/>
+      <caption webpage="suspensión" alt=""/>
+      <caption webpage="suspensión" alt=""/>
+      <caption webpage="suspensión" alt=""/>
+    </file>
+    <file name="svg pegado 1305x728_poster_.png" crc="4222705096" ref="suspensión"/>
+    <file name="svg-pegado-960x720.svg" crc="512729613" seo="true" ref="tipo-de-pie">
+      <caption webpage="tipo-de-pie" alt=""/>
+      <caption webpage="tipo-de-pie" alt=""/>
+      <caption webpage="tipo-de-pie" alt=""/>
+      <caption webpage="tipo-de-pie" alt=""/>
+      <caption webpage="tipo-de-pie" alt=""/>
+    </file>
+    <file name="svg pegado 960x720_poster_.png" crc="279218078" ref="tipo-de-pie"/>
+    <file name="svg-pegado-960x7202.svg" crc="4186894207" seo="true" ref="tipo-de-pie">
+      <caption webpage="tipo-de-pie" alt=""/>
+      <caption webpage="tipo-de-pie" alt=""/>
+      <caption webpage="tipo-de-pie" alt=""/>
+      <caption webpage="tipo-de-pie" alt=""/>
+      <caption webpage="tipo-de-pie" alt=""/>
+    </file>
+    <file name="svg pegado 960x720_poster_2.png" crc="4161353359" ref="tipo-de-pie"/>
+    <file name="imagen pegada 920x845.jpg" crc="414453261" seo="true" ref="documento-final">
+      <caption webpage="documento-final" alt=""/>
+      <caption webpage="documento-final" alt=""/>
+    </file>
+    <file name="imagen pegada 920x845247x226.jpg" crc="211989791" seo="true" ref="documento-final">
+      <caption webpage="documento-final" alt=""/>
+    </file>
+    <file name="imagen pegada 920x845201x184.jpg" crc="3886993865" seo="true" ref="documento-final">
+      <caption webpage="documento-final" alt=""/>
+    </file>
+    <file name="imagen pegada 920x845201x185.jpg" crc="3988953270" seo="true" ref="documento-final">
+      <caption webpage="documento-final" alt=""/>
+    </file>
+    <file name="svg-pegado-530x507.svg" crc="490519087" seo="true" ref="tipo-de-fabricación">
+      <caption webpage="tipo-de-fabricación" alt=""/>
+      <caption webpage="tipo-de-fabricación" alt=""/>
+      <caption webpage="tipo-de-fabricación" alt=""/>
+      <caption webpage="tipo-de-fabricación" alt=""/>
+      <caption webpage="tipo-de-fabricación" alt=""/>
+    </file>
+    <file name="svg pegado 530x507_poster_.png" crc="3802739498" ref="tipo-de-fabricación"/>
+    <file name="svg-pegado-520525x159.svg" crc="4133377209" seo="true" ref="materiales">
+      <caption webpage="materiales" alt=""/>
+      <caption webpage="materiales" alt=""/>
+      <caption webpage="materiales" alt=""/>
+      <caption webpage="materiales" alt=""/>
+      <caption webpage="materiales" alt=""/>
+    </file>
+    <file name="svg pegado 520525x159_poster_.png" crc="4104499286" ref="materiales"/>
+    <file name="contexto2.png" crc="4094842110" seo="true" ref="antes-1">
+      <caption webpage="antes-1" alt=""/>
+      <caption webpage="antes-1" alt=""/>
+      <caption webpage="antes-1" alt=""/>
+      <caption webpage="antes-1" alt=""/>
+      <caption webpage="antes-1" alt=""/>
+    </file>
+    <file name="recorrido2.png" crc="3812186866" seo="true" ref="antes-1">
+      <caption webpage="antes-1" alt=""/>
+      <caption webpage="antes-1" alt=""/>
+      <caption webpage="antes-1" alt=""/>
+      <caption webpage="antes-1" alt=""/>
+      <caption webpage="antes-1" alt=""/>
+    </file>
+    <file name="requerimientos116x120.png" crc="345114504" seo="true" ref="requerimientos">
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+    </file>
+    <file name="svg-pegado-812626x536.svg" crc="4032586893" seo="true" ref="requerimientos">
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+      <caption webpage="requerimientos" alt=""/>
+    </file>
+    <file name="svg pegado 812626x536_poster_.png" crc="4126452344" ref="requerimientos"/>
+    <file name="prototipo.png" crc="4112284394" seo="true" ref="prototipo">
+      <caption webpage="prototipo" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+      <caption webpage="prototipo" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="152697080" seo="true" mt="1571851500010" redirect="true"/>
+  <file name="equipo.html" crc="3982242181" seo="true" mt="1571851499928" redirect="true"/>
+  <file name="proyecto.html" crc="3884799606" seo="true" mt="1573845240365" redirect="true"/>
+  <file name="contacto.html" crc="3834472640" seo="true" mt="1573840511256" redirect="true"/>
+  <file name="investigación-previa.html" crc="18018311" seo="true" mt="1573434287695" redirect="true"/>
+  <file name="estado-del-arte.html" crc="327940835" seo="true" mt="1572705333166" redirect="true"/>
+  <file name="soluciones.html" crc="3856856909" seo="true" mt="1573845163118" redirect="true"/>
+  <file name="problemática.html" crc="150401849" seo="true" mt="1573840381943" redirect="true"/>
+  <file name="recorrido-de-paciente.html" crc="282197862" seo="true" mt="1572706334494" redirect="true"/>
+  <file name="tipos-de-prótesis.html" crc="3879566291" seo="true" mt="1571851499928" redirect="true"/>
+  <file name="suspensión.html" crc="3895875887" seo="true" mt="1571851499928" redirect="true"/>
+  <file name="tipo-de-pie.html" crc="4230773576" seo="true" mt="1571851499928" redirect="true"/>
+  <file name="documento-final.html" crc="81161174" seo="true" mt="1571857927710" redirect="true"/>
+  <file name="tipo-de-fabricación.html" crc="301865036" seo="true" mt="1572706498659" redirect="true"/>
+  <file name="materiales.html" crc="3857555790" seo="true" mt="1572706409176" redirect="true"/>
+  <file name="antes-1.html" crc="91000736" seo="true" mt="1573439951290" redirect="true"/>
+  <file name="requerimientos.html" crc="499884192" seo="true" mt="1573844176232" redirect="true"/>
+  <file name="prototipo.html" crc="3804182374" seo="true" mt="1573844735572" redirect="true"/>
+  <file name="protocolo.html" crc="3800386176" seo="true" mt="1573844804837" redirect="true"/>
+</manifest>
